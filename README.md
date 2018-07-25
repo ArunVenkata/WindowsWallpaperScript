@@ -1,7 +1,7 @@
 
 # WindowsWallpaperScript
 Ever seen those amazing windows wallpapers on your windows lock screen? This Python Script will Import all of those amazing wallpapers into the current folder that the script is in.
-The wallpapers keep changing with time when connected to internet so you can run the script after you notice new wallpapers on your lockscreen in order to obtain them.
+The wallpapers keep changing with time when connected to the internet so you can run the script after you notice new wallpapers on your lockscreen in order to obtain them.
 
 # Requirements
  * A Windows 10 PC
