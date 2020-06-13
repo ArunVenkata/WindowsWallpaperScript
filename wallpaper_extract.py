@@ -50,6 +50,7 @@ class Wallpaper:
     def change_ext():
         w = Wallpaper
         w.time_gap("Changing Extensions")
+        #SPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM
         # Look into all the files in the executing folder and change extension
         for filename in os.listdir(w.file_urls["wall_dst"]):
             base_file, ext = os.path.splitext(filename)
